@@ -1,4 +1,4 @@
-# Patika Tourism Agency System
+# Tourism Agency System
 
 This project aims to develop a hotel management system for Patika Tourism Agency to conduct its business digitally. The system provides a user-friendly interface for agency employees to manage hotel reservations, rooms, and fulfill customer requests.
 ## Features
